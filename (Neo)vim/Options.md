@@ -1,0 +1,1 @@
+- `rl`: `set rl` sets the text dir to be right-to-left for Hebrew texts (and `norl` to revert - and show english as it should)
