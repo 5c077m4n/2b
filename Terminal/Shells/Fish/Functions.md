@@ -7,4 +7,4 @@ function ga --description 'Stages files'
     git add $argv
 end
 ```
-This allows to run `ga` as `git add` in the terminal 
+This allows to run `ga` as `git add` in the terminal
