@@ -1,1 +1,0 @@
-There are fish config params where it's possible to to change the cursor shape and they all look like: `fish_cursor_*`
