@@ -3,7 +3,7 @@ example function:
 ```shell
 # ga.fish
 
-function ga
+function ga --description 'Stages files'
     git add $argv
 end
 ```
